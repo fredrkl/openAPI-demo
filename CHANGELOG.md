@@ -1,3 +1,8 @@
+# v1.0.0 (2025-10-08)
+
+## ✨ New Features
+- [`e820ca2`](https://github.com/fredrkl/openAPI-demo/commit/e820ca2)  Basic setup
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
