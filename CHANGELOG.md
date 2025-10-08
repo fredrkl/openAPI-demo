@@ -1,3 +1,8 @@
+# [v1.2.0](https://github.com/fredrkl/openAPI-demo/compare/v1.1.0...v1.2.0) (2025-10-08)
+
+## ✨ New Features
+- [`e870343`](https://github.com/fredrkl/openAPI-demo/commit/e870343)  Statically build openapi
+
 # [v1.1.0](https://github.com/fredrkl/openAPI-demo/compare/v1.0.0...v1.1.0) (2025-10-08)
 
 ## ✨ New Features
