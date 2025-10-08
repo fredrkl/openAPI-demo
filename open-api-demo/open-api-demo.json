@@ -4,11 +4,6 @@
     "title": "open-api-demo | v1",
     "version": "1.0.0"
   },
-  "servers": [
-    {
-      "url": "http://localhost:5193"
-    }
-  ],
   "paths": {
     "/weatherforecast": {
       "get": {
