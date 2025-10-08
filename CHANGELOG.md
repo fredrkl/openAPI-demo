@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/openAPI-demo/compare/v1.0.0...v1.1.0) (2025-10-08)
+
+## ✨ New Features
+- [`0f452dd`](https://github.com/fredrkl/openAPI-demo/commit/0f452dd)  Demo web API
+
 # v1.0.0 (2025-10-08)
 
 ## ✨ New Features
