@@ -4,3 +4,5 @@ GET {{open_api_demo_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{open_api_demo_HostAddress}}/openapi/v1.json
+Accept: application/json
