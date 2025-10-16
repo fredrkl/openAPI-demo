@@ -1,3 +1,8 @@
+# [v1.3.0](https://github.com/fredrkl/openAPI-demo/compare/v1.2.0...v1.3.0) (2025-10-16)
+
+## ✨ New Features
+- [`10933cf`](https://github.com/fredrkl/openAPI-demo/commit/10933cf)  Openapi setup
+
 # [v1.2.0](https://github.com/fredrkl/openAPI-demo/compare/v1.1.0...v1.2.0) (2025-10-08)
 
 ## ✨ New Features
